@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "The kisses she blows pierce my heart like Cupid's arrows."
-datePublished: '2016-03-24T21:26:00.677Z'
-dateModified: '2016-03-24T21:19:12.719Z'
+description: "The kisses she blows pierce my heart\_deeper than\_Cupid's arrows. "
+datePublished: '2016-04-01T09:16:16.305Z'
+dateModified: '2016-04-01T09:16:15.942Z'
 title: ''
 author: []
 authors: []
@@ -22,5 +22,4 @@ url: the-kisses-she-blows-pierce-my-heart-like-cupids-arrows/index.html
 _type: Article
 
 ---
-The kisses she blows pierce my heart deeper than Cupid's arrows.   
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fad6280-450c-49e8-9c19-85d7c9e31be6.jpg)
+The kisses she blows pierce my heart deeper than Cupid's arrows. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fad6280-450c-49e8-9c19-85d7c9e31be6.jpg)
